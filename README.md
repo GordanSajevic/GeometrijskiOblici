@@ -1,5 +1,6 @@
 GeometrijskiOblici
 ==================
+Zadaća
 Napraviti klasni model za racunanje povrsine i obima jednostavnih i kompleksnih geometrijskih tijela. 
 Osnovna geometrijska tijela koja bi se trebala podrzati su krug, pravougaonik i kvadrat. 
 Kompleksno tijelo treba imati mogucnost da se dodaje proizvoljan broj drugih geometrijskih tijela, i treba imati mogucnost ispisa i liste dijelova i njihovih povrsina. Implementacija treba da drzi dijelove u nizu, ali tako da niz ne ogranicava maksimalni broj dijelova.
